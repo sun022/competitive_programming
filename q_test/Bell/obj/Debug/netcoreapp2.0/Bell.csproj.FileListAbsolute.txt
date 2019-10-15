@@ -1,0 +1,11 @@
+/mnt/c/repos/cp/q_test/Bell/bin/Debug/netcoreapp2.0/Bell.deps.json
+/mnt/c/repos/cp/q_test/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.json
+/mnt/c/repos/cp/q_test/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.dev.json
+/mnt/c/repos/cp/q_test/Bell/bin/Debug/netcoreapp2.0/Bell.dll
+/mnt/c/repos/cp/q_test/Bell/bin/Debug/netcoreapp2.0/Bell.pdb
+/mnt/c/repos/cp/q_test/Bell/obj/Debug/netcoreapp2.0/Bell.csprojAssemblyReference.cache
+/mnt/c/repos/cp/q_test/Bell/obj/Debug/netcoreapp2.0/Bell.csproj.CoreCompileInputs.cache
+/mnt/c/repos/cp/q_test/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfoInputs.cache
+/mnt/c/repos/cp/q_test/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfo.cs
+/mnt/c/repos/cp/q_test/Bell/obj/Debug/netcoreapp2.0/Bell.dll
+/mnt/c/repos/cp/q_test/Bell/obj/Debug/netcoreapp2.0/Bell.pdb
