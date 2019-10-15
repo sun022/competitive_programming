@@ -1,3 +1,6 @@
 # competitive_programming
 
-Most of these folders are codeforces problems, if it begins with PE then it is my solution (or attempt at solution) for a project euler problem.
+Unfortunately the only clue to the problem being solved is the folder name.
+
+Most of these are codeforces problems.
+PE123 etc are project euler problems.
