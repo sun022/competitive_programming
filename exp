@@ -1,8 +1,0 @@
-#!/bin/bash
-
-if [ ! "$PROJ" ]; then
-    echo "No project."
-    exit
-fi
-
-explorer.exe ".\\$PROJ"
